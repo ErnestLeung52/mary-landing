@@ -79,9 +79,9 @@ const About = () => {
         </div>
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
-            &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="https://github.com/issaafalkattan" rel="nofollow">
-              Issaaf Kattan
+            &copy; {new Date().getFullYear()} maintained by{' '}
+            <a href="https://www.linkedin.com/in/ernestleung52/" rel="nofollow">
+              EStack Studio
             </a>
           </p>
         </div>
