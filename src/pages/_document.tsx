@@ -7,7 +7,11 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang={AppConfig.locale}>
-        <Head />
+        <Head>
+          {/* Default title */}
+          <title>C&M Advisory</title>
+          {/* You can also add default meta tags, links for fonts, etc., here */}
+        </Head>
         <body>
           <Main />
           <NextScript />
