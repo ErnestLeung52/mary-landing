@@ -17,7 +17,7 @@ const App = () => {
   return (
     <>
       <Head>
-        <title>C&M Advisory</title>
+        <title>MW Accounting Advisory</title>
       </Head>
       <div className={`bg-background grid gap-y-16 overflow-hidden`}>
         <div className={`relative bg-background`}>

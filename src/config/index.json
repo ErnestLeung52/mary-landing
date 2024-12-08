@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "C&M Advisory",
+    "name": "MW Accounting Advisory",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -23,9 +23,9 @@
     "href": "contact"
   },
   "mainHero": {
-    "title": "C&M Advisory",
+    "title": "MW Accounting Advisory",
     "subtitle": "Accounting Service, Consulting & Coaching",
-    "description": "At C&M Accounting Advisory, we believe in making your financial management effortless. We are seasoned accountants with a strong background in finance and fluency in Chinese, we're here to help you navigate the complexities of tax filing, savings, and consulting. Whether you prefer Zoom meetings or face-to-face discussions in Los Angeles, we tailor our services to meet your needs.",
+    "description": "At MW Accounting Advisory, we believe in making your financial management effortless. We are seasoned accountants with a strong background in finance and fluency in Chinese, we're here to help you navigate the complexities of tax filing, savings, and consulting. Whether you prefer Zoom meetings or face-to-face discussions in Los Angeles, we tailor our services to meet your needs.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Learn More",
@@ -54,7 +54,7 @@
   "features": {
     "title": "Why Choose Us?",
     "subtitle": "Personalized, Professional, Bilingual",
-    "description": "C&M Accounting Solutions stands out by offering personalized services tailored to your unique needs. Our bilingual capabilities in English and Chinese ensure clear communication, empowering us to serve a diverse clientele effectively. With our expertise in both digital and in-person consultations, we're here to make your accounting needs seamless and stress-free.",
+    "description": "MW Accounting Solutions stands out by offering personalized services tailored to your unique needs. Our bilingual capabilities in English and Chinese ensure clear communication, empowering us to serve a diverse clientele effectively. With our expertise in both digital and in-person consultations, we're here to make your accounting needs seamless and stress-free.",
     "items": [
       {
         "name": "Customized Services",
@@ -121,7 +121,7 @@
       {
         "name": "Our Story",
         "href": "#",
-        "content": "Founded two accounting enthusiasts, C&M Accounting Solutions is the culmination of years of expertise in the accounting field. With a passion for helping individuals and small businesses, we've tailored our services to be simple, accessible, and effective."
+        "content": "Founded two accounting enthusiasts, MW Accounting Solutions is the culmination of years of expertise in the accounting field. With a passion for helping individuals and small businesses, we've tailored our services to be simple, accessible, and effective."
       },
       {
         "name": "Our Mission",
@@ -131,7 +131,7 @@
       {
         "name": "Meet the Team",
         "href": "#",
-        "content": "Learn more about Celine and Mary, the heart and soul behind our accounting services."
+        "content": "Learn more about Mary, the heart and soul behind our accounting services."
       },
       {
         "name": "FAQ",
